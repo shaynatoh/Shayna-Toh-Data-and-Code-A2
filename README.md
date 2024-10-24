@@ -1,5 +1,5 @@
-# PyHouse
-> Outline a brief description of your project.
+# PyHouse: Coding House Music
+> This project consists of four songs based on House music. Each song is based on a different feeling (Happy, Chill, Sad, Angry) and is coded into a prompt that can be entered into Python. When the prompt word (e.g. 'happy' or 'chill') is entered into Python, the corresponding song will be played.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
