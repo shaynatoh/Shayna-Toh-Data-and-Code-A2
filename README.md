@@ -17,6 +17,8 @@
 
 
 ## General Information
+PyHouse was created to solve the artistic challenge of creating music through Python code. The purpose of this project was to learn how to code whilst challenging my creative skill in making music. I chose to do this project as I always enjoy listening to music and creating it seemed like a fun task to undertake.
+
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
