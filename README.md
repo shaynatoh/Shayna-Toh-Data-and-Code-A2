@@ -7,7 +7,8 @@
 * [TunePad Links for Songs](#tunepad-links-for-songs)
 * [TunePad Files](#tunepad-files)
 * [Setup](#setup)
-* [Usage](#usage)
+* [Creating the Question Through Code](#creating_the_question_through_code)
+* [Running the Pyhouse File](#running_the_pyhouse_file)
 * [Contact](#contact)
 
 
@@ -48,7 +49,7 @@ PyHouse was created to solve the artistic challenge of creating music through Py
 4. Download mp3 files and Pyhouse files into one location.
 
 
-## Usage
+## Creating the Question Through Code
 1. To begin, the user must open IDLE.
 2. Import pip and pygame onto IDLE. This can be done by typing:
    'import pip'
@@ -64,6 +65,10 @@ PyHouse was created to solve the artistic challenge of creating music through Py
    ![image](https://github.com/user-attachments/assets/dd12b090-17d9-4d09-a288-3682fe0ea80a)
 5. Now, the user can associate a function with its corresponding song emotion. This can be done by typing:
      ![image](https://github.com/user-attachments/assets/7ad4ede1-4ce7-48d8-a7eb-2eb10543a620)
+
+## Running the PyHouse File
+If the user chooses the user the Pyhouse file download instead of creating its code, they can open the software and respond with the four stated emotions. The corresponding mp3 file will then be played. (Note: the mp3 files must be in the same file location as the Pyhouse file)
+![image](https://github.com/user-attachments/assets/7a08c6f0-e39f-4b32-a659-e0465061df35)
 
 
 ## Contact
