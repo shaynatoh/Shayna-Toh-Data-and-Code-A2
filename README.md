@@ -4,15 +4,11 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [TunePad Links for Songs](#tunepad-links-for-songs)
 * [TunePad Files](#tunepad-files)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -23,62 +19,53 @@ PyHouse was created to solve the artistic challenge of creating music through Py
 ## Technologies Used
 - TunePad: https://tunepad.com/
 - Python
+- IDLE
+- PIP
+- Pygame
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## TunePad Links for Songs
+1. Happy House: https://tunepad.com/project/88013
+2. Chill House: https://tunepad.com/project/89659
+3. Sad House: https://tunepad.com/project/89661
+4. Angry House: https://tunepad.com/project/90501
 
 
 ## TunePad Files
-Happy house
-- JSON file: 
+- Happy House (happy.mp3)
+- Angry House (angry.mp3)
+- Chill House (chill.mp3)
+- Sad House (sad.mp3)
+
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+1. IDLE must be downloaded onto computer. You can find it here: https://www.python.org/downloads/
+2. PIP and Pygame must also be installed into python for the code to run.
+   To download pygame, open 'Command Prompt' on computer.
+   Then, enter 'pip install pygame'
+   Pygame is now installed!
+4. Download mp3 files and Pyhouse files into one location.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+1. To begin, the user must open IDLE.
+2. Import pip and pygame onto IDLE. This can be done by typing:
+   'import pip'
+   'pip.main(['install', 'pygame'])
+   'import pygame'
+   Example:
+   ![image](https://github.com/user-attachments/assets/51d75dfe-e8f0-4ef4-a145-2c3797841073)
+3. Initialise the pygame software. This can be done by typing: 'pygame.init()
+   Example:
+   ![image](https://github.com/user-attachments/assets/c5f0d862-c063-4d23-b756-c61216fe1f0e)
+4. To ensure that the 'while' variable runs, user must first write 'check = True'. As long as 'check = True', the loop will continue to execute.
+   Example:
+   ![image](https://github.com/user-attachments/assets/dd12b090-17d9-4d09-a288-3682fe0ea80a)
+5. Now, the user can associate a function with its corresponding song emotion. This can be done by typing:
+     ![image](https://github.com/user-attachments/assets/7ad4ede1-4ce7-48d8-a7eb-2eb10543a620)
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Shayna Toh | Student ID: 24851457 | Email: shayna.e.toh@student.uts.edu.au
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
